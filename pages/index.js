@@ -1,7 +1,7 @@
 import react from "react";
 import { useState , useEffect } from "react";
 
-import ProductCard from "./../components/productCard";
+import ProductCard from "./../components/ProductCard";
 import ShoppingCart from "./../components/ShoppingCart";
 export const cartContext = react.createContext();
 
